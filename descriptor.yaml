@@ -1,0 +1,5 @@
+code: lambda-bundle
+description: Lambda Bundle
+components:
+  widgets:
+    - microfrontends/view-statements-mf/descriptor.yaml
